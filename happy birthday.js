@@ -383,7 +383,7 @@ for (let i = 0; i < opts.strings.length; ++i) {
           (opts.strings[i].length * opts.charSize) / 2 - 30,
         i * opts.lineHeight +
           opts.lineHeight / 2 -
-          (opts.strings.length * opts.lineHeight) / 2 - 20
+          (opts.strings.length * opts.lineHeight) / 2 - 30
       )
     );
   }
@@ -458,3 +458,4 @@ function positionElements() {
   }
 
 }
+
