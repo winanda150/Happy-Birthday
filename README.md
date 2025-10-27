@@ -12,11 +12,15 @@ For my sister Kirana, date of birth 18 November 2010.
 
 <p align="center">Picture 1</p>
 
-![Picture 1](./Elemen%20Website/IMG_20251026_173217.jpg)
+<p align="center">
+    <img src="./Elemen%20Website/IMG_20251026_173217.jpg" alt="Picture 1" width="400" />
+</p>
 
 <p align="center">Picture 2</p>
 
-![Picture 2](./Elemen%20Website/IMG_20251026_173146.jpg)
+<p align="center">
+    <img src="./Elemen%20Website/IMG_20251026_173146.jpg" alt="Picture 2" width="400" />
+</p>
 
 # Note
 
