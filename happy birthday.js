@@ -486,7 +486,7 @@ function playAudioOnUserGesture() {
 }
 
 // Untuk perangkat mobile (klik area kosong)
-window.addEventListener('touchstart', function(e) {
+c.addEventListener('touchstart', function(e) {
   // Pastikan bukan klik pada tombol suara
   if (!tombol.contains(e.target)) {
     playAudioOnUserGesture();
@@ -555,4 +555,5 @@ function positionElements() {
     teksKanan.style.bottom = '';
     teksKanan.style.left = '';
   }
+
 }
