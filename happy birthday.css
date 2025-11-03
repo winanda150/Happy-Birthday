@@ -101,7 +101,7 @@ canvas {
   background-clip: text;
   color: transparent;
   animation: gerakjalan 1.7s linear infinite;
-  z-index: 1;
+  z-index: 3;
   /* supaya tidak bisa di select atau blok */
   -webkit-user-select: none; /* Chrome, Safari, Opera */
   -moz-user-select: none;    /* Firefox */
@@ -141,4 +141,5 @@ audio::-webkit-media-controls-panel:focus {
   border: none;
   box-shadow: none;
   border-radius: 50%;
+
 }
