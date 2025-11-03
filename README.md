@@ -10,22 +10,22 @@ For my sister Kirana, date of birth 18 November 2010.
 
 # Pictures
 
-<p align="center">Picture 1</p>
+<p align="center">Song</p>
 
 <p align="center">
-    <img src="./Elemen%20Website/IMG_20251026_173217.jpg" alt="Picture 1" width="400" />
+    <img src="./Elemen%20Website/Song.jpg" alt="Picture 1" width="500" />
 </p>
 
-<p align="center">Picture 2</p>
+<p align="center">Handphone</p>
 
 <p align="center">
-    <img src="./Elemen%20Website/Mockup Handphone.jpg" alt="Picture 2" width="400" />
+    <img src="./Elemen%20Website/Mockup Handphone.jpg" alt="Picture 2" width="500" />
 </p>
 
-<p align="center">Picture 3</p>
+<p align="center">Desktop</p>
 
 <p align="center">
-    <img src="./Elemen%20Website/IMG_20251027_105416.png" alt="Picture 3" width="400" />
+    <img src="./Elemen%20Website/IMG_20251027_105416.png" alt="Picture 3" width="500" />
 </p>
 
 # Note
