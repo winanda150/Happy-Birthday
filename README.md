@@ -25,7 +25,7 @@ For my sister Kirana, date of birth 18 November 2010.
 <p align="center">Desktop</p>
 
 <p align="center">
-    <img src="./Elemen%20Website/Mockup Destop.jpg" alt="Picture 2" width="500" />
+    <img src="./Elemen%20Website/Mockup Desktop.jpg" alt="Picture 2" width="500" />
 </p>
 
 # Note
